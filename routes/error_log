@@ -1,0 +1,4 @@
+[17-May-2021 07:52:00 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home1/diutrans/public_html/routes/web.php:19
+Stack trace:
+#0 {main}
+  thrown in /home1/diutrans/public_html/routes/web.php on line 19
